@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kui Register</string>
+    <string name="registration_label">Registration</string>
+    <string name="login_label">Login</string>
+</resources>
